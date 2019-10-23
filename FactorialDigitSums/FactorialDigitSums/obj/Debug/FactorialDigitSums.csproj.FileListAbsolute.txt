@@ -1,0 +1,10 @@
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FactorialDigitSums\FactorialDigitSums\bin\Debug\FactorialDigitSums.exe.config
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FactorialDigitSums\FactorialDigitSums\bin\Debug\FactorialDigitSums.exe
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FactorialDigitSums\FactorialDigitSums\bin\Debug\FactorialDigitSums.pdb
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FactorialDigitSums\FactorialDigitSums\obj\Debug\FactorialDigitSums.csprojAssemblyReference.cache
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FactorialDigitSums\FactorialDigitSums\obj\Debug\FactorialDigitSums.csproj.CoreCompileInputs.cache
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FactorialDigitSums\FactorialDigitSums\obj\Debug\FactorialDigitSums.exe
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FactorialDigitSums\FactorialDigitSums\obj\Debug\FactorialDigitSums.pdb
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FactorialDigitSums\FactorialDigitSums\bin\Debug\BigMath.dll
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FactorialDigitSums\FactorialDigitSums\bin\Debug\BigMath.xml
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FactorialDigitSums\FactorialDigitSums\obj\Debug\FactorialDigitSums.csproj.CopyComplete
